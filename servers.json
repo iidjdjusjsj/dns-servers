@@ -1,0 +1,12 @@
+[
+  {
+    "name": "MyDNS Server 1",
+    "ip": "1.1.1.1",
+    "location": "Germany"
+  },
+  {
+    "name": "MyDNS Server 2",
+    "ip": "8.8.8.8",
+    "location": "USA"
+  }
+]
